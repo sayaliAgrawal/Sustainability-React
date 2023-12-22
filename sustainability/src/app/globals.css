@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+:where(.css-dev-only-do-not-override-2rgkd4).ant-layout .ant-layout-sider {
+  background: #ffffff;
+}
+
+:where(.css-dev-only-do-not-override-2rgkd4).ant-layout
+  .ant-layout-sider-trigger {
+  background: #ffffff;
+  color: black;
+}
+
+:where(.css-dev-only-do-not-override-2rgkd4).ant-card {
+  height: 24rem;
+}
+
+:where(.css-dev-only-do-not-override-2rgkd4).ant-card .ant-card-body{
+  background: #ffffff;
+}
